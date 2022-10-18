@@ -281,6 +281,9 @@ p {
     height: auto;
     width: 100%;
   }
+  .headercontent{
+    margin: 0;
+  }
   .headercontent p {
     padding: 1rem 0;
   }
@@ -300,7 +303,7 @@ p {
     margin: 0 0;
     margin-left: 0.5rem;
     padding: 0 0;
-    height: 26rem;
+    height: 37rem;
   }
 
   .mscontent {
